@@ -6,12 +6,12 @@ This project demonstrates a simple recommendation system that suggests courses b
 
 ## Technologies Used
 
-* Python
+- Python
 
 ## Dataset
 
-* Course Dataset (C, Python, Java, and Data Science)
-* Beginner, Intermediate, and Advanced Levels
+- Course Dataset (C, Python, Java & Data Science)
+- Beginner, Intermediate & Advanced Levels
 
 ## Result
 
@@ -19,10 +19,10 @@ The recommendation system successfully provides personalized course suggestions 
 
 ### Output
 
-* User selects a topic
-* User selects a skill level
-* Relevant courses are recommended
-* Appropriate message displayed if no match is found
+- User selects a topic
+- User selects a skill level
+- Relevant courses are recommended
+- Appropriate message displayed if no match is found
 
 ### Screenshot
 
